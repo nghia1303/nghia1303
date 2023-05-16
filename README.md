@@ -1,5 +1,4 @@
 - Hi, i'm Nghia. Welcome to my profile. 
 - I'm a sophomore in TLU, it stands for Thuy Loi University (HaNoi, VietNam).
 - I'm learning C++, Python, Java, ...
-- My programming skill is poor, so I hope I can master at least 1 language.
 - Have a good day. :D 
