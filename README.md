@@ -1,4 +1,4 @@
 - Hi, i'm Nghia. Welcome to my profile. 
-- I'm a sophomore in TLU, it stands for Thuy Loi University (HaNoi, VietNam).
+- I'm a junior in TLU, it stands for Thuy Loi University (HaNoi, VietNam).
 - I'm learning C++, Python, Java, ...
 - Have a good day. :D 
